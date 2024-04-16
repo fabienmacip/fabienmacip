@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fabien MACIP</h1>
-<h3 align="center">Fullstack JavaScript Developer, happy at coding, and found of Angular & Node.js. Attentive to ergonomics and simplicity.</h3>
+<h3 align="center">Fullstack JavaScript Developer,<br>happy at coding,<br>found of Angular & Node.js.<br>Attentive to ergonomics and simplicity.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fabienmacip&label=Profile%20views&color=0e75b6&style=flat" alt="fabienmacip" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fabienmacip" alt="fabienmacip" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://webfm.fr/](https://webfm.fr/)
 
@@ -14,6 +11,10 @@
 - 📄 Know about my experiences [https://fatabien.com/webfm.fr/index.php?page=mon-cv](https://fatabien.com/webfm.fr/index.php?page=mon-cv)
 
 - ⚡ Fun fact **I am a specialist in versatility.**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fabienmacip&label=Profile%20views&color=0e75b6&style=flat" alt="fabienmacip" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fabienmacip" alt="fabienmacip" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fabien MACIP</h1>
-<h3 align="left">Fullstack JavaScript Developer,<br>happy at coding,<br>found of Angular & Node.js.<br>Attentive to ergonomics and simplicity.</h3>
+<h3 align="left">Fullstack JavaScript Developer, happy at coding, found of Angular & Node.js.<br>Attentive to ergonomics and simplicity.</h3>
 
 
 - 👨‍💻 All of my projects are available at [https://webfm.fr/](https://webfm.fr/)

@@ -3,7 +3,7 @@
 <h3 align="left">Attentive to ergonomics and simplicity.</h3>
 
 
-- 👨‍💻 All of my projects are available at [https://webfm.fr/](https://webfm.fr/)
+- 👨‍💻 Many of my projects are available at [https://webfm.fr/](https://webfm.fr/)
 
 - 💬 Ask me about **JavaScript, PHP, Angular, Node.js**
 
